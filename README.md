@@ -1,3 +1,3 @@
 # MySuperProject
-Hello, Everyone.!
+HELLO, EVERYONE!
 
