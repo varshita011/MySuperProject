@@ -1,2 +1,2 @@
 # MySuperProject
-Hello, People.!
+HELLO, PEOPLE.!
