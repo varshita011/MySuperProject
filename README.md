@@ -1,0 +1,2 @@
+# MySuperProject
+Solving merge conflicts
