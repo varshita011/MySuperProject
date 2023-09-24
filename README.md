@@ -1,2 +1,2 @@
 # MySuperProject
-Solving merge conflicts
+Hello, People.!
